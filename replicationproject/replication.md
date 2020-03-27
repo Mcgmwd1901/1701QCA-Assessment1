@@ -87,7 +87,7 @@ I discovered that the more you are able to complete,overcome and/or acomplish a 
 
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](Diagram.png)
+![Image](diagram.png)
 
 ## Process documentation
 
