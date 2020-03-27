@@ -108,8 +108,8 @@ I started with a very basic version of a guitar I found online I decieded to dra
 
 
 ### Code ###
-![Image](code.png)
-![Image](whole.png)
+![Image](code.PNG)
+![Image](whole.PNG)
 
 *Include screenshots of the code you have used.*
 
