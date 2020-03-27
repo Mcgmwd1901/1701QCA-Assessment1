@@ -63,10 +63,10 @@ This project is related to mine because (insert reasons here).
 ## Process documentation
 
 ### guitar design/image drawn in illustrator ###
-![Image](guitar.jpg)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/guitar.jpg)
 
 ### Ideas ###
-![Image](Alcohol_Heineken-JPEG-body-edit.png)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/Alcohol_Heineken-JPEG-body-edit.png)
 
 
 ### Building ###
@@ -75,12 +75,12 @@ This project is related to mine because (insert reasons here).
 I started with a very basic version of a guitar I found online I decieded to draw the guitar in illustrator to get a muscle memory of how I will draw my outline/cut out when making the guitar.
 
 
-![Image](IMG_6828.png)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6828.jpg)
 
 
 ### Code ###
-![Image](code.jpg)
-![Image](whole.jpg)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/code.png)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/whole.png)
 
 *Include screenshots of the code you have used.*
 
@@ -97,13 +97,13 @@ The Recycble Guitar is a musical experiment. How can you turn one of humanity’
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](IMG_6828.jpg)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6828.jpg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](IMG_6829.jpg)
+![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6829.jpg)
 
 ### Reflection ###
 
