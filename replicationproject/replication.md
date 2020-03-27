@@ -4,7 +4,7 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
+## Assessment 1: Replication project##
 (Insert the name of the project you chose to replicate.)
 
 ## Related projects ##
@@ -62,13 +62,25 @@ This project is related to mine because (insert reasons here).
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+### guitar design/image drawn in illustrator ###
+![Image](guitar.png)
 
-*This should have quite a lot of information!*
+### Ideas ###
+![Image](Alcohol_Heineken-JPEG-body-edit.png)
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+### Building ###
+![Image](IMG_6827.png)
+
+I started with a very basic version of a guitar I found online I decieded to draw the guitar in illustrator to get a muscle memory of how I will draw my outline/cut out when making the guitar.
+
+
+![Image](IMG_6828.png)
+
+
+### Code ###
+![Image](code.png)
+![Image](whole.png)
 
 *Include screenshots of the code you have used.*
 
@@ -76,23 +88,22 @@ This project is related to mine because (insert reasons here).
 
 *Complete the following information.*
 
-### Project title ###
+### Recycble Guitar ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
-
+The Recycble Guitar is a musical experiment. How can you turn one of humanity’s first instruments into something electronic and modern in a DIY environment? The target audience of The Drunk Bongos are for those bored quarantine and want to partake in an age-old tradition of making music.
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](IMG_6828.png)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](IMG_6829.png)
 
 ### Reflection ###
 
