@@ -11,13 +11,50 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Micro:bit-Swift Musical Instrument Controller
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=Jflf77bLC34
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because the video shows Peter Wallen creating a guitar/device, this is similar to mine due to Peter uses sensors to help with determing each cord. This is similar to mine due to my guitar is similar butit uses lights and its x/y position to play the cords.
+
+
+### Related project 2 ###
+Micro:bit-Swift Musical Instrument Controller
+
+https://www.youtube.com/watch?v=ANvT1LmpzF8
+
+![Image](missingimage.png)
+
+This project is very similar to mine as the micro bit will play a chord when tiled ok a certain x/y this is what I am doing but with adding a light sensor for added sounds.
+
+
+### Related project 3 ###
+BBC microbit Python Circuit and Music Project
+
+https://www.youtube.com/watch?v=rcXacFNVVb8
+
+![Image](missingimage.png)
+
+In this project the user takes making music to a more indepth level than compared to my guitar. This is done by adding a orange and a playdough of some sort and when pressing either one will display an image corrisponding to the item touched. this is similar to my project due to i use the buttons on the guitar to play a sound and display an image when touched.
+
+
+### Related project 4 ###
+Micro:bit-Swift Musical Instrument Controller
+
+https://www.youtube.com/watch?v=ulKq5To9dmA
+
+![Image](missingimage.png)
+
+
+### Related project 5 ###
+Micro:bit-Swift Musical Instrument Controller
+
+https://www.youtube.com/watch?v=ANvT1LmpzF8
+
+![Image](missingimage.png)
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -25,14 +62,14 @@ This project is related to mine because (insert reasons here).
 *For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
+I had some previous understanding of Don Norman and his doors due to this was a topic I had studied last year. For example a flat surface hand on a door means to pull towards the user, However some manufacturers decided to change how this works and hence may confuse the user.
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Don Norman's depictions of how the design of doors has changed and molded our general surroundings. This has changed my insight into how as a creator you collaborate with the procedure of plan. How would you plan for the human component, what signifies do you implant into configuration to ensure an individual realizes how to utilize something.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I would like to know more about how you can create more effective mapping within design and graphic design. How do you implement a natural feel to objects and graphics?
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+The feedback and signifiers elements relate to the project as they are ideas in my project. The instant feedback from a tap is sound. This creates
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -92,28 +129,25 @@ I started with a very basic version of a guitar I found online I decieded to dra
 
 ### Project description ###
 
-The Recycble Guitar is a musical experiment. How can you turn one of humanity’s first instruments into something electronic and modern in a DIY environment? The target audience of The Drunk Bongos are for those bored quarantine and want to partake in an age-old tradition of making music.
+The Recycble Guitar is a musical experiment. The Guitar is meant to be designed to be recyclable and evironmentaly friendly. this is done by using old carton box's and other cardboard material, As I made my peroject out of normal cardboard boxes but I added labels from cartons to help showcase what the guitar would be made from if this was to be a real thing.
+
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6828.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6829.jpg)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+In this assignment I felt that Understanding how the x/y feature worked on the microbit was a help in this being I was able to not just see how the music was being played but was able to see and understand at the same time how the music being played and therefore, As my project was made from cardboard from I would have prefered to use old cartons such as corona,vb etc, this is due to I wanted to make a guitar that was able to be recycled.
 
-
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+I approached this with a similar intent as project 2 and 3. The intent to see what a person can DIY because they can. I also wanted to create something fun and interactive like project 4.
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+This project could be extended into an entire band of electronic instruments. With various instruments communicating with one another to make a typical musical band of some sort.
