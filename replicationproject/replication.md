@@ -95,7 +95,7 @@ I discovered that the more you are able to complete,overcome and/or acomplish a 
 ![Image](guitar.jpg)
 
 ### Ideas ###
-![Image](Alcohol_Heineken-JPEG-body-edit.png)
+![Image](Alcohol_Heineken-JPEG-body-edit.jpg)
 
 
 ### Building ###
