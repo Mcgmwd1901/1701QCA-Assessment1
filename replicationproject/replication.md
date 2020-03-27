@@ -92,10 +92,10 @@ I discovered that the more you are able to complete,overcome and/or acomplish a 
 ## Process documentation
 
 ### guitar design/image drawn in illustrator ###
-![Image](1701QCA-Assessment1/replicationproject/replication.md/guitar.jpg)
+![Image](guitar.jpg)
 
 ### Ideas ###
-![Image](1701QCA-Assessment1/replicationproject/replication.md/Alcohol_Heineken-JPEG-body-edit.png)
+![Image](Alcohol_Heineken-JPEG-body-edit.png)
 
 
 ### Building ###
@@ -104,12 +104,12 @@ I discovered that the more you are able to complete,overcome and/or acomplish a 
 I started with a very basic version of a guitar I found online I decieded to draw the guitar in illustrator to get a muscle memory of how I will draw my outline/cut out when making the guitar.
 
 
-![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6828.jpg)
+![Image](IMG_6828.jpg)
 
 
 ### Code ###
-![Image](1701QCA-Assessment1/replicationproject/replication.md/code.png)
-![Image](1701QCA-Assessment1/replicationproject/replication.md/whole.png)
+![Image](code.png)
+![Image](whole.png)
 
 *Include screenshots of the code you have used.*
 
@@ -126,12 +126,12 @@ The Recycble Guitar is a musical experiment. The Guitar is meant to be designed 
 ### Showcase image ###
 
 
-![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6828.jpg)
+![Image](IMG_6828.jpg)
 
 ### Additional view ###
 
 
-![Image](1701QCA-Assessment1/replicationproject/replication.md/IMG_6829.jpg)
+![Image](IMG_6829.jpg)
 
 ### Reflection ###
 
