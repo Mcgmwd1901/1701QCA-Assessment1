@@ -72,26 +72,19 @@ The feedback and signifiers elements relate to the project as they are ideas in 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before perusing this section on microtransactions I never thought about how significant little detail/effect can improve and change a project.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I figured out how the interaction of all micro transactions and the macro design scale had a postivte outlook for the client. In the end the fact is that the simpler is in more ways than one the most effective way dealing with micro transactions espacily on a larger scale.
+ The progression of  micro transactions is the trigger that at that point keeps on the off chance that the principles have been follwed, The client's input and afterward it circles back on itself doing an entire loop.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Its shown in design that most creators/designs will tend to ignore/glide over the imperfections/flaws in their designs. But In Scott's reading he discusses how designers help pave the journey of their creations/designs.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+I discovered that the more you are able to complete,overcome and/or acomplish a task and do the appropriate steps while doing these task you can later be able to create/designs stuff for the fun of it.
 
 ## Interaction flowchart ##
+
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](missingimage.jpg)
