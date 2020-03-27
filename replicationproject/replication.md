@@ -58,19 +58,19 @@ This project is related to mine because (insert reasons here).
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](missingimage.jpg)
 
 ## Process documentation
 
 ### guitar design/image drawn in illustrator ###
-![Image](guitar.png)
+![Image](guitar.jpg)
 
 ### Ideas ###
 ![Image](Alcohol_Heineken-JPEG-body-edit.png)
 
 
 ### Building ###
-![Image](IMG_6827.png)
+![Image](IMG_6827.jpg)
 
 I started with a very basic version of a guitar I found online I decieded to draw the guitar in illustrator to get a muscle memory of how I will draw my outline/cut out when making the guitar.
 
@@ -79,8 +79,8 @@ I started with a very basic version of a guitar I found online I decieded to dra
 
 
 ### Code ###
-![Image](code.png)
-![Image](whole.png)
+![Image](code.jpg)
+![Image](whole.jpg)
 
 *Include screenshots of the code you have used.*
 
@@ -97,13 +97,13 @@ The Recycble Guitar is a musical experiment. How can you turn one of humanity’
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](IMG_6828.png)
+![Image](IMG_6828.jpg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](IMG_6829.png)
+![Image](IMG_6829.jpg)
 
 ### Reflection ###
 
