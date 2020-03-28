@@ -13,7 +13,7 @@ Micro:bit-Swift Musical Instrument Controller
 
 https://www.youtube.com/watch?v=Jflf77bLC34
 
-![Image](missingimage.png)
+![Image](video1.png)
 
 This project is related to mine because the video shows Peter Wallen creating a guitar/device, this is similar to mine due to Peter uses sensors to help with determing each cord. This is similar to mine due to my guitar is similar butit uses lights and its x/y position to play the cords.
 
@@ -23,7 +23,7 @@ Micro:bit-Swift Musical Instrument Controller
 
 https://www.youtube.com/watch?v=ANvT1LmpzF8
 
-![Image](missingimage.png)
+![Image](video2.png)
 
 This project is very similar to mine as the micro bit will play a chord when tiled ok a certain x/y this is what I am doing but with adding a light sensor for added sounds.
 
@@ -33,7 +33,7 @@ BBC microbit Python Circuit and Music Project
 
 https://www.youtube.com/watch?v=rcXacFNVVb8
 
-![Image](missingimage.png)
+![Image](video3.png)
 
 In this project the user takes making music to a more indepth level than compared to my guitar. This is done by adding a orange and a playdough of some sort and when pressing either one will display an image corrisponding to the item touched. this is similar to my project due to i use the buttons on the guitar to play a sound and display an image when touched.
 
@@ -43,7 +43,7 @@ Micro:bit-Swift Musical Instrument Controller
 
 https://www.youtube.com/watch?v=ulKq5To9dmA
 
-![Image](missingimage.png)
+![Image](video4.png)
 
 
 ### Related project 5 ###
