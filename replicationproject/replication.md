@@ -50,8 +50,9 @@ obilab the drumkit
 
 https://www.youtube.com/watch?v=-ER0kAgUanw
 
-![Image](missingimage.png)
+![Image](735f50f038f75935f1ade15e727c0fcd_original.png)
 
+In this project the user makes an intrisment out of cardboard this is similar to mine as yet I am not making music out of cardboard but using cardboard to make music aswell as the microbit. 
 
 ## Reading reflections ##
 
