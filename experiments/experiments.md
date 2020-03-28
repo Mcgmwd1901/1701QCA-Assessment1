@@ -24,25 +24,27 @@ This experiment could be the basis of a real world application such as (insert s
 
 ![Image](IMG_6850.jpg)
 
-(Insert a caption here)
+
+(Buzzer making tones on button press)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how easy it was to put the pins/wires into the wrong slot making the whole experiment not work.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a doop opening system such a elivators and other buildings such as hospitals.
+
 
 ### Dimming An LED Using A Potentiometer Experiment 3 ###
 
 ![Image](IMG_6848.jpg)
 
-(Insert a caption here)
+(light adjust when dial is turned.)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how for the whole experiment to work it was crucial to have the LED facing the same way as show in the book or it would not work.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as light dimming in houses
 
 ### Experiment name ###
 
