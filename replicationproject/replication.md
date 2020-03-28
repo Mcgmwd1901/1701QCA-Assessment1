@@ -4,7 +4,7 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Assessment 1: Replication project##
-(Insert the name of the project you chose to replicate.)
+Recycble Guitar
 
 ## Related projects ##
 
@@ -50,7 +50,7 @@ obilab the drumkit
 
 https://www.youtube.com/watch?v=-ER0kAgUanw
 
-![Image](735f50f038f75935f1ade15e727c0fcd_original.png)
+![Image](735f50f038f75935f1ade15e727c0fcd_original.jpg)
 
 In this project the user makes an intrisment out of cardboard this is similar to mine as yet I am not making music out of cardboard but using cardboard to make music aswell as the microbit. 
 
