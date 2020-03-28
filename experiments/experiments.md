@@ -20,14 +20,9 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using A Light Sensor And Analog Inputs Experiment 2 ###
 
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
+![Image](IMG_6850.jpg)
 
 (Insert a caption here)
 
