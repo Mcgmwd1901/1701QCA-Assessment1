@@ -46,9 +46,9 @@ https://www.youtube.com/watch?v=ulKq5To9dmA
 
 
 ### Related project 5 ###
-Micro:bit-Swift Musical Instrument Controller
+obilab the drumkit
 
-https://www.youtube.com/watch?v=ANvT1LmpzF8
+https://www.youtube.com/watch?v=-ER0kAgUanw
 
 ![Image](missingimage.png)
 
