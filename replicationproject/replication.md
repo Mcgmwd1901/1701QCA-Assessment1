@@ -1,6 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
@@ -56,9 +55,7 @@ https://www.youtube.com/watch?v=ANvT1LmpzF8
 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 I had some previous understanding of Don Norman and his doors due to this was a topic I had studied last year. For example a flat surface hand on a door means to pull towards the user, However some manufacturers decided to change how this works and hence may confuse the user.
@@ -84,8 +81,6 @@ Its shown in design that most creators/designs will tend to ignore/glide over th
 I discovered that the more you are able to complete,overcome and/or acomplish a task and do the appropriate steps while doing these task you can later be able to create/designs stuff for the fun of it.
 
 ## Interaction flowchart ##
-
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](diagram.png)
 
