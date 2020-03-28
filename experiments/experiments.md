@@ -46,37 +46,31 @@ In this experiment, something new to me was or something I learned was how for t
 
 This experiment could be the basis of a real world application such as light dimming in houses
 
-### Experiment name ###
-
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+### Say "hello" to the BBC Micro Bit ###
 
 ![Image](IMG_6849.jpg)
 
-(Insert a caption here)
+(displaying images on button press)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how easy micro bits are to use a
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as airpots and other transportation place to help display times for planes delays etc.
 
 ### Experiment name ###
 
 (Replace this with the experiment name)
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+#### Using a Transistor to drive a motor ####
 
 ![Image](IMG_6846.jpg)
 
-(Insert a caption here)
+(enabling a fan motor)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was fiddly it was to put the wires into the terminal connection, this was a bit of a challenege but in the end I was able to get it.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as real fans,plane motors. etc
 
