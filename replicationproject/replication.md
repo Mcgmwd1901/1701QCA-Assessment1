@@ -106,6 +106,7 @@ I started with a very basic version of a guitar I found online I decieded to dra
 
 ![Image](IMG_6828.jpg)
 
+I then added the Micro bit along with the extra corona logo and bottles to help show that the guitar if was made properly what it could have been made from.
 
 ### Code ###
 ![Image](code.PNG)
