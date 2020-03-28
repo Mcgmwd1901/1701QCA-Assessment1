@@ -12,13 +12,14 @@
 
 ![Image](IMG_6847.jpg)
 
-(Insert a caption here)
+(The buzzer going with different tones)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how easy it was to make music with minimal wires and buzzers.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a doop opening system such a elevators and other buildings such as hospitals to help with floors, or in the hospital case to say if the room is being used or is a paitent need help.
+
 
 ### Using A Light Sensor And Analog Inputs Experiment 2 ###
 
@@ -31,7 +32,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 In this experiment, something new to me was or something I learned was how easy it was to put the pins/wires into the wrong slot making the whole experiment not work.
 
-This experiment could be the basis of a real world application such as a doop opening system such a elivators and other buildings such as hospitals.
+This experiment could be the basis of a real world application such as a doop opening system such a elevators and other buildings such as hospitals to help with floors, or in the hospital case to say if the room is being used or is a paitent need help.
 
 
 ### Dimming An LED Using A Potentiometer Experiment 3 ###
