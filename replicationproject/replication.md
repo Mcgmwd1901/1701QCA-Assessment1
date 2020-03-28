@@ -134,6 +134,6 @@ In this assignment I felt that Understanding how the x/y feature worked on the m
 I approached this with a similar intent as project 2 and 3. The intent to see what a person can DIY because they can. I also wanted to create something fun and interactive like project 4.
 
 
-Before starting the project I looked into and read an artical named "Making music with BeatBox, a Labo-like drum machine kit" in this I found how you can make a home made mixing board for a cheaper price than buying the real thing and this was interesting to me due to i liked the whole idea of being able to replicate somthing for a cheaper/cost effective price.
+Before starting the project I looked into and read an artical named "Making music with BeatBox, a Labo-like drum machine kit" in this I found how you can make a home made mixing board for a cheaper price than buying the real thing and this was interesting to me due to i liked the whole idea of being able to replicate somthing for a cheaper/cost effective price. - https://www.engadget.com/2020-01-08-beatbox-cardboard-drum-machine-impressions.html
 
 This project could be extended into an entire band of electronic instruments. With various instruments communicating with one another to make a typical musical band of some sort with multiple instruments.
